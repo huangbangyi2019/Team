@@ -5,7 +5,7 @@ public class Test2 {
 	private int id;
 
 	public int getId() {
-		return id + 100;
+		return id + 20;
 	}
 
 	public void setId(int id) {

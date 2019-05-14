@@ -1,5 +1,6 @@
-package com.nnxy.team4;
-public class Shenjing {
+package com.nnxy.team1;
+
+public class luyingying {
 	private int id;
 	private String username;
 	private String password;
@@ -28,4 +29,13 @@ public class Shenjing {
 	public void setSex(int sex) {
 		this.sex = sex;
 	}
+	public luyingying(int id, String username, String password, int sex) {
+		super();
+		this.id = id;
+		this.username = username;
+		this.password = password;
+		this.sex = sex;
+	}
+	
+
 }

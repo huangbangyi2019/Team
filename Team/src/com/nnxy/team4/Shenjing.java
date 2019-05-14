@@ -1,5 +1,4 @@
 package com.nnxy.team4;
-
 public class Shenjing {
 	private int id;
 	private String username;
@@ -29,5 +28,4 @@ public class Shenjing {
 	public void setSex(int sex) {
 		this.sex = sex;
 	}
-	
 }

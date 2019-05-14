@@ -1,5 +1,5 @@
 package com.nnxy.team2;
 
-public class Test {
+public class linrehui {
 
 }

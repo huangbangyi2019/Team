@@ -1,6 +1,6 @@
 package com.nnxy.team1;
 
-public class wushuhui {
+public class linnan {
 	private int id;
 	private String name;
 	private int password;

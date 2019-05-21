@@ -7,7 +7,7 @@ private String password;
 private int sex;
 private int age;
 public int getId() {
-	return id;
+	return id+20000;
 }
 public void setId(int id) {
 	this.id = id;

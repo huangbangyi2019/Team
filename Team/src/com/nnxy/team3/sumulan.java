@@ -9,7 +9,7 @@ public class sumulan {
 	
 	public int getId() {
 
-		return id + 52;
+		return id + 520;
 	}
 	public void setId(int id) {
 		this.id = id;

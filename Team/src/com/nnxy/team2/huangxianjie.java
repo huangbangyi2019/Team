@@ -6,7 +6,7 @@ public class huangxianjie {
 	private String Password; //666
 	private int Sex;  //man
 	private int Age;  //twenty
-	private int id;
+	
 	public int getId() {
 		return id + 2000;
 	}

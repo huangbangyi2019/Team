@@ -11,7 +11,7 @@ public class Liangshuixian20160217069 {
 		
 	}
 	public int getId() {
-		return id;
+		return id + 300;
 	}
 	public void setId(int id) {
 		this.id = id;

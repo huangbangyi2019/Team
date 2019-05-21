@@ -29,9 +29,9 @@ public class luyingying {
 	public void setSex(int sex) {
 		this.sex = sex;
 	}
-	public luyingying(int id, String username, String password, int sex) {
+	public luyingying(int name, String username, String password, int sex) {
 		super();
-		this.id = id;
+		this.name = name;
 		this.username = username;
 		this.password = password;
 		this.sex = sex;

@@ -20,10 +20,7 @@ public class huangxianjie {
 	}
 	
 	
-	public int add(int num1, int num2) {
-		return num1 + num2;
-	}
-
+	
 
 	public huangxianjie(int iD, String name, String password, int sex, int age) {
 		super();

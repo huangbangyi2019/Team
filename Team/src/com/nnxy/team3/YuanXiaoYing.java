@@ -7,7 +7,7 @@ public class YuanXiaoYing {
 	private int sex;
 	private int age;
 	public int getId() {
-		return id;
+		return id+233;
 	}
 	public void setId(int id) {
 		this.id = id;

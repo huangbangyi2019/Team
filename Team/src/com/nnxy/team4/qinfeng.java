@@ -10,7 +10,7 @@ public class qinfeng {
 		return id;
 	}
 	public void setId(int id) {
-		this.id = id;
+		this.id = id + 300;
 	}
 	public String getName() {
 		return name;

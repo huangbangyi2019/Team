@@ -7,11 +7,7 @@ public class WuXiangYue {
 	private int sex;
 	private int age;
 	public int getId() {
-<<<<<<< HEAD
-		return id+200;
-=======
-		return id + 200;
->>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
+		return id + 300;
 	}
 	public void setId(int id) {
 		this.id = id;

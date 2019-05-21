@@ -5,7 +5,7 @@ public class qinnianyu {
 	private int id;
 
 	public int getId() {
-		return id;
+		return id+999;
 	}
 
 	public void setId(int id) {

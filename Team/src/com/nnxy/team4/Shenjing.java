@@ -3,7 +3,7 @@ public class Shenjing {
 	private int id;
 	private String username;
 	private String password;
-	private int sex;
+	private int sex+512;
 	public int getId() {
 		return id;
 	}

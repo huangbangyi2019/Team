@@ -7,7 +7,7 @@ public class liyunhong {
 	private int sex;
 	private int age;
 	public int getId() {
-		return id;
+		return id + 300;
 	}
 	public void setId(int id) {
 		this.id = id;

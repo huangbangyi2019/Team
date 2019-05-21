@@ -7,10 +7,10 @@ public class qinfeng {
 	private int sex;
 	private int age;
 	public int getId() {
-		return id;
+		return id +300;
 	}
 	public void setId(int id) {
-		this.id = id + 300;
+		this.id = id;
 	}
 	public String getName() {
 		return name;

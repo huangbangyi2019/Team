@@ -8,11 +8,8 @@ public class sumulan {
 	private int age;
 	
 	public int getId() {
-<<<<<<< HEAD
+
 		return id + 52;
-=======
-		return id + 520;
->>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
 	public void setId(int id) {
 		this.id = id;

@@ -5,7 +5,7 @@ public class Shenjing {
 	private String password;
 	private int sex;
 	public int getId() {
-		return id;
+		return id+512000;
 	}
 	public void setId(int id) {
 		this.id = id;

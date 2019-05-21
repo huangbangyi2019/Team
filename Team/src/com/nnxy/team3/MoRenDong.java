@@ -8,12 +8,10 @@ public class MoRenDong {
 	private int ef;
 	private int asdc;
 	public int getId() {
-<<<<<<< HEAD
+
 		
 		return id+10000;
-=======
-		return id+2000;
->>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
+
 	
 }
 	public int getCds() {

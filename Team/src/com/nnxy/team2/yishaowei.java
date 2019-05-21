@@ -8,7 +8,11 @@ public class yishaowei {
 	private int Sex;  //man
 	private int Age;  //twenty
 	
-	
+	private int id;
+
+	public int getId() {
+		return id + 888;
+	}
 	public int add(int num1, int num2) {
 		return num1 + num2;
 	}
@@ -25,7 +29,7 @@ public class yishaowei {
 
 
 	public int getID() {
-		return ID+10;//1
+		return ID;//1
 	}
 
 

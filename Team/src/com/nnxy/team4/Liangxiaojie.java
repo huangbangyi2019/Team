@@ -8,7 +8,7 @@ package com.nnxy.team4;
 		private int sex;
 		private int age;
 		public int getId() {
-			return id;
+			return id+200;
 		}
 		public void setId(int id) {
 			this.id = id;

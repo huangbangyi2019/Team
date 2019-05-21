@@ -2,8 +2,8 @@ package com.nnxy.team2;
 
 public class yishaowei {
 	
-	private int ID;   //idºÅ
-	private String Name;   //ĞÕÃû
+	private int ID;   //idÂºÃ…
+	private String Name;   //ÃÃ•ÃƒÃ»
 	private String Password; //666
 	private int Sex;  //man
 	private int Age;  //twenty
@@ -25,7 +25,7 @@ public class yishaowei {
 
 
 	public int getID() {
-		return ID;
+		return ID+10;//1
 	}
 
 

@@ -8,7 +8,8 @@ public class MoRenDong {
 	private int ef;
 	private int asdc;
 	public int getId() {
-		return id+200000;
+		
+		return id+10000;
 	
 }
 	public int getCds() {

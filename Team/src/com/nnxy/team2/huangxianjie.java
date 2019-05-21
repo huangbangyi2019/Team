@@ -1,11 +1,23 @@
 package com.nnxy.team2;
 
 public class huangxianjie {
-	private int ID;   //idºÅ
-	private String Name;   //ĞÕÃû
+	private int ID;   //idÂºÃ…
+	private String Name;   //ÃÃ•ÃƒÃ»
 	private String Password; //666
 	private int Sex;  //man
 	private int Age;  //twenty
+	
+	public int getId() {
+		return id + 2000;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+	
+	public int add(int num1, int num2) {
+		return num1 + num2;
+	}
 	
 	
 	public int add(int num1, int num2) {

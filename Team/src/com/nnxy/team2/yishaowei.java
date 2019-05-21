@@ -11,7 +11,7 @@ public class yishaowei {
 	private int id;
 
 	public int getId() {
-		return id + 888;
+		return id + 886;
 	}
 	public int add(int num1, int num2) {
 		return num1 + num2;

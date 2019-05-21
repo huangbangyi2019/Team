@@ -6,7 +6,7 @@ public class Liangshuixian20160217069 {
 	private int password;
 	private int sex;
 	private int age;
-	private int add(int num1,int num2) {
+	public int add(int num1,int num2) {
 		return num1 + num2;
 		
 	}

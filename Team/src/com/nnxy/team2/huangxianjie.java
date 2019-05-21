@@ -1,6 +1,7 @@
 package com.nnxy.team2;
 
 public class huangxianjie {
+<<<<<<< HEAD
 	private int ID;   //idºÅ
 	private String Name;   //ÐÕÃû
 	private String Password; //666
@@ -17,7 +18,14 @@ public class huangxianjie {
 	
 	public int add(int num1, int num2) {
 		return num1 + num2;
+=======
+	private int id;
+
+	public int getId() {
+		return id + 2000;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
+<<<<<<< HEAD
 	
 	
 	
@@ -29,63 +37,10 @@ public class huangxianjie {
 		Password = password;
 		Sex = sex;
 		Age = age;
+=======
+
+	public void setId(int id) {
+		this.id = id;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
-
-
-	public int getID() {
-		return ID;
-	}
-
-
-	public void setID(int iD) {
-		ID = iD;
-	}
-
-
-	public String getName() {
-		return Name;
-	}
-
-
-	public void setName(String name) {
-		Name = name;
-	}
-
-
-	public String getPassword() {
-		return Password;
-	}
-
-
-	public void setPassword(String password) {
-		Password = password;
-	}
-
-
-	public int getSex() {
-		return Sex;
-	}
-
-
-	public void setSex(int sex) {
-		Sex = sex;
-	}
-
-
-	public int getAge() {
-		return Age;
-	}
-
-
-	public void setAge(int age) {
-		Age = age;
-	}
-
-
-	@Override
-	public String toString() {
-		return "huangxainjie059 [ID=" + ID + ", Name=" + Name + ", Password=" + Password + ", Sex=" + Sex + ", Age=" + Age
-				+ "]";
-	}
-
 }

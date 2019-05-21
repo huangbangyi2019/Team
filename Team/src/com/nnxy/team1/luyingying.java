@@ -1,15 +1,15 @@
 package com.nnxy.team1;
 
 public class luyingying {
-	private int id;
+	private int name;
 	private String username;
 	private String password;
 	private int sex;
 	public int getId() {
-		return id;
+		return name;
 	}
-	public void setId(int id) {
-		this.id = id;
+	public void setId(int name) {
+		this.name = name;
 	}
 	public String getUsername() {
 		return username;

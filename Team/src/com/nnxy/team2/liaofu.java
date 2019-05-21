@@ -1,8 +1,8 @@
 package com.nnxy.team2;
 
 public class liaofu {
-	private int ID;   //id∫≈
-	private String Name;   //–’√˚
+	private int ID;   //id¬∫√Ö
+	private String Name;   //√ê√ï√É√ª
 	private String Password; //666
 	private int Sex;  //man
 	private int Age;  //twenty
@@ -12,14 +12,18 @@ public class liaofu {
 		return num1 + num2;
 	}
 
+public class a {
 
-	public liaofu(int iD, String name, String password, int sex, int age) {
-		super();
-		ID = iD;
-		Name = name;
-		Password = password;
-		Sex = sex;
-		Age = age;
+		private int id;
+
+		public int getId() {
+			return id + 800;
+		}
+
+		public void setId(int id) {
+			this.id = id;
+		}
+		
 	}
 
 

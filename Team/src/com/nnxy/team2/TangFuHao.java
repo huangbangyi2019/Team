@@ -16,6 +16,7 @@ public class TangFuHao {
 		System.out.println("ID:"+id+"ÐÕÃû£º"+name+"ÄêÁä£º"+age);
 		
 	}
+<<<<<<< HEAD
 	
 	public TangFuHao() {
 	
@@ -34,5 +35,25 @@ public class TangFuHao {
 	public int divide(int x , int y) {
 		return x/y;
 	}
+=======
+	public TangFuHao() {
+		
+		// TODO Auto-generated constructor stub
+	}
+
+	public TangFuHao(int iD, String name, int age) {
+		
+		ID = iD;
+		this.name = name;
+		this.age = age;
+	}
+	public int Sum(int x, int y) {
+		return x+y+2;
+	}
+	public int divide(int x , int y) {
+		return x/y;
+	}
+	
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 
 }

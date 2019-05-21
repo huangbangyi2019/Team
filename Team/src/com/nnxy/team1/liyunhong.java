@@ -1,17 +1,13 @@
-package com.nnxy.team3;
+package com.nnxy.team1;
 
-public class sumulan {
+public class liyunhong {
 	private int id;
 	private String name;
 	private String password;
 	private int sex;
 	private int age;
-	
 	public int getId() {
-
-
-		return id + 520;
-
+		return id + 300;
 	}
 	public void setId(int id) {
 		this.id = id;
@@ -40,7 +36,5 @@ public class sumulan {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	
-	
 
 }

@@ -7,7 +7,11 @@ private String password;
 private int sex;
 private int age;
 public int getId() {
-	return id;
+<<<<<<< HEAD
+	return id + 20;
+=======
+	return id+20000;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 }
 public void setId(int id) {
 	this.id = id;

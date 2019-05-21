@@ -5,7 +5,15 @@ public class Shenjing {
 	private String password;
 	private int sex;
 	public int getId() {
-		return id;
+<<<<<<< HEAD
+<<<<<<< HEAD
+		return id+512000;
+=======
+		return id+2000000;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
+=======
+		return id+512;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
 	public void setId(int id) {
 		this.id = id;

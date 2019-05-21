@@ -8,7 +8,10 @@ public class sumulan {
 	private int age;
 	
 	public int getId() {
-		return id;
+
+
+		return id + 520;
+
 	}
 	public void setId(int id) {
 		this.id = id;

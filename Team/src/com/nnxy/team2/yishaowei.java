@@ -2,13 +2,17 @@ package com.nnxy.team2;
 
 public class yishaowei {
 	
-	private int ID;   //idºÅ
-	private String Name;   //ĞÕÃû
+	private int ID;   //idÂºÃ…
+	private String Name;   //ÃÃ•ÃƒÃ»
 	private String Password; //666
 	private int Sex;  //man
 	private int Age;  //twenty
 	
-	
+	private int id;
+
+	public int getId() {
+		return id + 886;
+	}
 	public int add(int num1, int num2) {
 		return num1 + num2;
 	}
@@ -25,7 +29,11 @@ public class yishaowei {
 
 
 	public int getID() {
-		return ID;
+<<<<<<< HEAD
+		return ID + 20160217067;
+=======
+		return ID;//1
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
 
 

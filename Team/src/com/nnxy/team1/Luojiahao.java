@@ -1,13 +1,13 @@
-package com.nnxy.team3;
+package com.nnxy.team1;
 
-public class ShiFangKai {
+public class Luojiahao {
 	private int id;
 	private String name;
-	private String password;
-	private int sex;
+	private int password;
+	private String sex;
 	private int age;
 	public int getId() {
-		return id + 1000;
+		return id+2000;
 	}
 	public void setId(int id) {
 		this.id = id;
@@ -18,16 +18,16 @@ public class ShiFangKai {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getPassword() {
+	public int getPassword() {
 		return password;
 	}
-	public void setPassword(String password) {
+	public void setPassword(int password) {
 		this.password = password;
 	}
-	public int getSex() {
+	public String getSex() {
 		return sex;
 	}
-	public void setSex(int sex) {
+	public void setSex(String sex) {
 		this.sex = sex;
 	}
 	public int getAge() {
@@ -36,5 +36,4 @@ public class ShiFangKai {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	
 }

@@ -1,13 +1,13 @@
 package com.nnxy.team3;
 
-public class ShiFangKai {
+public class QinYiKun {
 	private int id;
 	private String name;
 	private String password;
 	private int sex;
 	private int age;
 	public int getId() {
-		return id + 1000;
+		return id +100000;
 	}
 	public void setId(int id) {
 		this.id = id;
@@ -36,5 +36,4 @@ public class ShiFangKai {
 	public void setAge(int age) {
 		this.age = age;
 	}
-	
 }

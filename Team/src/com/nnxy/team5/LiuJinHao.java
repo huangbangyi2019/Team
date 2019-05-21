@@ -1,11 +1,11 @@
 package com.nnxy.team5;
 
 public class LiuJinHao {
-	private int id;
+	private int age;
 
 	@Override
 	public String toString() {
-		return "LiuJinHao [id=" + id + "]";
+		return "LiuJinHao [age=" + age + "]";
 	}
 
 }

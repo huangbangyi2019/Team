@@ -6,12 +6,16 @@ public class Liangshuixian20160217069 {
 	private int password;
 	private int sex;
 	private int age;
-	private int add(int num1,int num2) {
+	public int add(int num1,int num2) {
 		return num1 + num2;
 		
 	}
 	public int getId() {
-		return id;
+<<<<<<< HEAD
+		return id + 300;
+=======
+		return id + 30;
+>>>>>>> branch 'master' of https://github.com/huangbangyi2019/Team.git
 	}
 	public void setId(int id) {
 		this.id = id;

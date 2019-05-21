@@ -7,7 +7,7 @@ public class linnan {
 	private String sex;
 	private int age;
 	public int getId() {
-		return id;
+		return id+20;
 	}
 	public void setId(int id) {
 		this.id = id;

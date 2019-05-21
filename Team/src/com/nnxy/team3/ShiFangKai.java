@@ -7,7 +7,7 @@ public class ShiFangKai {
 	private int sex;
 	private int age;
 	public int getId() {
-		return id + 1000;
+		return id + 100;
 	}
 	public void setId(int id) {
 		this.id = id;

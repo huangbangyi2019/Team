@@ -5,7 +5,7 @@ public class luoxuan {
   	private int id;
 
 	public int getId() {
-		return id + 22;
+		return id + 10;
 	}
 
 	public void setId(int id) {

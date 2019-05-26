@@ -4,7 +4,7 @@ public class Guige {
    private int id;
 
 public int getId() {
-	return id+200;
+	return id+100;
 }
 
 public void setId(int id) {

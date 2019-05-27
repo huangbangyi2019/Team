@@ -14,7 +14,7 @@ public class Wangxueying {
 		this.love = love;
 	}
 	public int getId() {
-		return id;
+		return id +10;
 	}
 	public void setId(int id) {
 		this.id = id;

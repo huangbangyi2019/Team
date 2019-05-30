@@ -15,6 +15,10 @@ public class Wangkun {
 	public void setName(int name) {
 		this.name = name;
 	}
+	@Override
+	public String toString() {
+		return "Wangkun [id=" + id + ", name=" + name + "]";
+	}
 
 
 }
